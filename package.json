@@ -1,0 +1,18 @@
+{
+  "name": "gulp.insert",
+  "version": "1.0.3",
+  "description": "insert content into the file",
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^0.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "insert"
+  ],
+  "author": "longjia<https://github.com/longjiarun>",
+  "license": "MIT"
+}
